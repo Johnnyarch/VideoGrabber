@@ -1,0 +1,7 @@
+# 编译产物与运行时文件
+bin/
+*.exe
+*.log
+.temp/
+config.ini
+.ffmpeg_tmp/
